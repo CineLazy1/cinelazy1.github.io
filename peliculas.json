@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "titulo": "Godzilla y Kong: El nuevo imperio",
+    "fecha_estreno": "2024-07-15",
+    "genero": ["Acción", "Ficción"],
+    "descripcion": "Una aventura cinematográfica completamente nueva, que enfrentará al todopoderoso Kong y al temible Godzilla contra una colosal amenaza desconocida escondida dentro de nuestro mundo.",
+    "duracion": 115,
+    "imagen": "https://www.laspiedrasshopping.com.uy/imgupload/380779Godzilla%20y%20Kong%20El%20Nuevo%20Imperio%20af2.jpg",
+    "alt": "Imagen 1",
+    "iframeOptions": [
+      { "text": "Opción 1 (Filelions)", "value": "https://darkkgomas1.blogspot.com/2024/05/mi-querida-oni.html" },
+      { "text": "Opción 2 (Streamwish)", "value": "https://streamwish.to/e/t3hjk9er1j4d" }
+    ]
+  },
+  {
+    "id": 2,
+    "titulo": "Película 2",
+    "fecha_estreno": "2024-07-16",
+    "genero": ["Terror"],
+    "descripcion": "Descripción de la película 2.",
+    "duracion": 120,
+    "imagen": "https://roseimgs.com/ncoc2qsrhgyt_xt.jpg",
+    "alt": "Imagen 2",
+    "iframeOptions": []
+  }
+]
